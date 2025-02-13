@@ -1,0 +1,2 @@
+# AI-solution-for-early-lung-cancer-detection-using-deep-learning
+The CNN prototype for identifying lung cancer by means of CT scan images the process is costly and time consuming. we built an automated prototype that aims at detecting lung cancer using CNN learns to work with CT scan images that show tumor spots appearing as clear off colored spots on the scanned regions we collected dataset from Iraq Oncology
